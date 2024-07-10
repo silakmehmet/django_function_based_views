@@ -41,6 +41,9 @@ INSTALLED_APPS = [
 
     # TPA
     'rest_framework',
+
+    # My Apps
+    'student_api',
 ]
 
 MIDDLEWARE = [
